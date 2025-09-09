@@ -5,6 +5,7 @@
 int main()
 {
     printf("Desafio: Cartas Super Trunfo - Estados do Brasil\n");
+    printf("novo comit/n")
 
     // --- Carta 1 ---
     printf("\nCarta n°1\n");
